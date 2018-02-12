@@ -1,4 +1,4 @@
-# Praat text to .csv columns
+# Convert Praat text to .csv columns
 This is an .r code for split the columns from Praat windows. I assume the users have basic knowledge about R programming.
 
 This idea is inspired by the discussion on https://www.researchgate.net/post/How_can_I_convert_txt_file_into_csv_file_using_R.
